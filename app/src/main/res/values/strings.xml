@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes</string>
+   <string name="image">image</string>
+    <string name="bersyte">bersyte</string>
+    <string name="success">Note saved successfully</string>
+    <string name="plsenter">Please enter note title</string>
+
+    <string name="cancel">CANCEL</string>
+    <string name="deletenote">Delete Note</string>
+    <string name="areyousure">Are you sure you want to permanently delete this note?</string>
+    <string name="delete">DELETE</string>
+
+    <string name="nonotesav">No notes available!!</string>
+
+    <string name="title">Your title</string>
+    <string name="type">Type something...</string>
+
+    <string name="search">Search</string>
+
+ <string name="save">Save</string>
+
+</resources>
